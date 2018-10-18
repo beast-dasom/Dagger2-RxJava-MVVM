@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">뽕글리쉬</string>
+    <string name="bbonglish_api_key">bbonglish_api_key</string>
+    <string name="login_title">로그인</string>
+    <string name="signup_title">회원가입</string>
+    <string name="description">Description</string>
+    <string name="language">Languagezzzzz</string>
+    <string name="last_update">Last update</string>
+    <string name="no_description_provided">No description provided</string>
+    <string name="no_language_specified">No language specified</string>
+    <string name="no_recent_repositories">No recent repositories.</string>
+    <string name="no_search_result">No search result.</string>
+    <string name="search">Search</string>
+    <string name="sign_in">Sign in</string>
+    <string name="start_with_github">Start with Github</string>
+    <string name="unknown">Unknown</string>
+    <string name="view_sentItems">View sentItems</string>
+    <string name="view_repository">View repository</string>
+    <string name="home">Home</string>
+    <string name="write">Write</string>
+    <string name="mypage">My page</string>
+    <string name="etc">Etc</string>
+</resources>
